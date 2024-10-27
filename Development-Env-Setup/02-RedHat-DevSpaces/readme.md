@@ -55,8 +55,12 @@ Installing Code Runner Extension
 
 ![alt text](image-22.png)
 
-Alternativly you can select multiple templates provided by developer sandbox
+
 
 ![alt text](image-23.png)
 
 ![alt text](image-24.png)
+
+Alternativly you can select multiple templates provided by developer sandbox
+
+![alt text](Other-DevSpace-TemplateEnvironments.png)
